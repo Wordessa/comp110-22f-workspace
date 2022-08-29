@@ -31,3 +31,4 @@ if single_character == five_char_word[4]:
     instances = instances + 1
     
 print(str(int(instances)) + " instance of " + single_character + " found in " + five_char_word)
+
